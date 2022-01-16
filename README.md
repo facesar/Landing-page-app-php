@@ -1,7 +1,5 @@
 # Landing-page-app-php
 
-<img alt="Night Coding" src="https://giffiles.alphacoders.com/842/8426.gif" width="250px" align="right"/>
-
 You can find and get examples with code source here 👀
 
 ## what is inside the package.
